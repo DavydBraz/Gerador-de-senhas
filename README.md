@@ -49,9 +49,7 @@ O app possui um design **minimalista**, feito para ser prático, leve e direto a
 
 <img width="394" height="827" alt="image" src="https://github.com/user-attachments/assets/88df3687-4472-4fa0-bb39-2bfe447cffb9" />
 
-<img width="363" height="701" alt="image" src="https://github.com/user-attachments/assets/4300a1c2-74be-413e-9e09-84fdcb7b828e" />
-
-<img width="375" height="624" alt="image" src="https://github.com/user-attachments/assets/a5dcd37c-3512-4159-9c60-bcf693cfeef1" />
+<img width="391" height="847" alt="image" src="https://github.com/user-attachments/assets/61a95c20-ae85-4750-aa60-9073d0bb5feb" />
 
 
 ---
