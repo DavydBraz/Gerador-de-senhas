@@ -61,4 +61,4 @@ O app possui um design **minimalista**, feito para ser prático, leve e direto a
 Clone este repositório:
 
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/DavydBraz/Gerador-de-senhas)
+git clone https://github.com/DavydBraz/Gerador-de-senhas
